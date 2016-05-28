@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Resultado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Resultado\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=PtA1\ PtA2\ PtW1\ PtW2\ PtM1\ PtM2\ PtL1\ PtL2
+comment1.target=Resultado(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Resultado.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ generarompecab()
+comment2.text=\r\nInicializalos\ objetos\ para\ las\ imagenes\ del\ rompecabezas\r\n
+comment3.params=
+comment3.target=void\ muestrarompecab()
+comment3.text=\r\n\ Crea\ los\ objetos\ de\ cada\ uno\ de\ los\ 4\ rompecabezas\r\n
+numComments=4
