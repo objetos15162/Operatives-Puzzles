@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BotonResultado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BotonResultado\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ BotonResultado\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ cambiaimagen()
+comment3.params=PtA1\ PtA2\ PtW1\ PtW2\ PtM1\ PtM2\ PtL1\ PtL2
+comment3.target=BotonResultado(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=4

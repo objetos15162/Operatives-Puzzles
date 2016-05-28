@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Elementos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Elemtos\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=lim1\ lim2\ tec1\ tec2\ juga
+comment1.target=void\ Elementos(int,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Elemtos\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ movilidad()
+comment2.text=\r\n\ Metodo\ con\ las\ condiciones\ de\ movimiento\ de\ una\ imagen\r\n
+comment3.params=X\ Y
+comment3.target=void\ mover2(int,\ int)
+comment3.text=\r\n\ Determina\ los\ limites\ para\ cada\ jugador\r\n
+comment4.params=X\ Y
+comment4.target=void\ mover(int,\ int)
+comment5.params=clss
+comment5.target=boolean\ canSee(java.lang.Class)
+comment5.text=\r\n\ Se\ utiliza\ una\ bandera\ booleana\ para\ determinar\ si\ el\ objeto\ que\ se\ tiene\ en\ el\ mundo\ toca\ con\ el\ objeto\ o\ clase\ de\ algun\ contenedor\r\n
+numComments=6
